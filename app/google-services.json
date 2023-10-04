@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39229127050",
+    "project_id": "mymappicker-84d06",
+    "storage_bucket": "mymappicker-84d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39229127050:android:05f6ac0e3fa667a472b073",
+        "android_client_info": {
+          "package_name": "com.example.mycamerapicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNxZJjEAHZnT0ehlp73JzRFeTI1hLyZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

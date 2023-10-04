@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#057714</color>
+    <color name="colorPrimaryDark">#1F7601</color>
+    <color name="colorAccent">#057714</color>
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGreen">#057714</color>
+    <color name="colorGray">#727272</color>
+    <color name="colorNgray">#d2d3d4</color>
+    <color name="colorLightGray">#e3e3e3</color>
+    <color name="colorBackground">#f3fcff</color>
+    <color name="colorBase">#ffff06</color>
+    <color name="colordarksnack">#ffff06</color>
+    <color name="colorsnack">#a5ffffff</color>
+    <color name="dark_green">#057714</color>
+    <color name="color_newsnack">#A3E4D7</color>
+    <color name="colorTransparentBlack">#75000000</color>
+    <color name="red">#f90000</color>
+    <color name="my_donation">#f3fcff</color>
+    <color name="yellow">#ffff06</color>
+</resources>
