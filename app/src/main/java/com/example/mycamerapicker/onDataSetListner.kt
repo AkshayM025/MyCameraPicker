@@ -1,3 +1,5 @@
 package com.example.mycamerapicker
 
-sealed interface onDataSetListner
+open interface OnDataListener {
+    fun selectedData(data: String?)
+}
